@@ -1,3 +1,0 @@
-/home/nirbhay-singh/Desktop/project/cp_toolkit/build/CMakeFiles/cp_tool.dir
-/home/nirbhay-singh/Desktop/project/cp_toolkit/build/CMakeFiles/edit_cache.dir
-/home/nirbhay-singh/Desktop/project/cp_toolkit/build/CMakeFiles/rebuild_cache.dir
